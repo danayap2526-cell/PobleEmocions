@@ -24,7 +24,7 @@ namespace PobleEmocions
             }
 
             // Si la conexión funciona, iniciar la aplicación
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
     }
 }
