@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PobleEmocions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702f4304e7745fa4ee668b0e633a9a135bc6c004")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc48fb0208b81f929d17b0783fd3cb3854536614")]
 [assembly: System.Reflection.AssemblyProductAttribute("PobleEmocions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PobleEmocions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
