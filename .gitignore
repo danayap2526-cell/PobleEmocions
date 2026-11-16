@@ -1,1 +1,4 @@
+# Archivos temporales de Visual Studio y .NET
 .vs/
+[Bb]in/
+[Oo]bj/
